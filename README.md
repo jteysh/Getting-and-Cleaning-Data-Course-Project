@@ -10,5 +10,5 @@
 
 ### R Script: [run_Analysis.R](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project/blob/master/run_Analysis.R)
 ### Tidy Dataset: [Tidy dataset](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_dataset.txt)
-### Code Book: [CodeBook.md]()
+### Code Book: [CodeBook.md](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project/blob/master/Codebook.md)
 ### Github Repo: [GitHub Repo](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project)
