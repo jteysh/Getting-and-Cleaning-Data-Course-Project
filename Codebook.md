@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Course Project
+## Getting and Cleaning Data Course Project Code Book
 
 ### Data Source
 From: UCI Machine Learning Repository <br />
