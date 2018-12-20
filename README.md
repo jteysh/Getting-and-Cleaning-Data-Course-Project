@@ -7,6 +7,7 @@ GitHub contains a code book that modifies and updates the available codebooks wi
 The README that explains the analysis files is clear and understandable.
 The work submitted for this project is the work of the student who submitted it.
 
+--- | ---
 run_Analysis.R | ()
 Tidy dataset | ()
 CodeBook.md | ()
