@@ -7,8 +7,8 @@ GitHub contains a code book that modifies and updates the available codebooks wi
 The README that explains the analysis files is clear and understandable.
 The work submitted for this project is the work of the student who submitted it.
 
---- | ---
-run_Analysis.R | ()
-Tidy dataset | ()
-CodeBook.md | ()
-GitHub Repo | ()
+
+### [run_Analysis.R](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project/blob/master/run_Analysis.R)
+### [Tidy dataset](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_dataset.txt)
+### [CodeBook.md]()
+### [GitHub Repo](https://github.com/jteysh/Getting-and-Cleaning-Data-Course-Project)
